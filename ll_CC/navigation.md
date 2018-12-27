@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# ZilentWiki
+# Random Thai wiki
 
 
 <!--
@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](cerulean)
+[gimmick:theme](flatly)
 
 
 <!--
