@@ -11,19 +11,18 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](cerulean)
 
 
 <!--
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-
+<!--
 [About](pages/about.md)
 [Download](pages/download.md)
-
+-->
 <!-- A more complex navigation example: ----------------------------------------
-
 [Menu Item 1]()
 
   * # SubMenu Heading 1
@@ -39,7 +38,6 @@
 [Menu Item 2](pages/item2.md)
 
 [Menu Item 3](pages/item3.md)
-
 ---------------------------------------------------------------------------- -->
 
 <!--
